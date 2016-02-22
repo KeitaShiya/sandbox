@@ -1,0 +1,10 @@
+PODS:
+  - CTCheckbox (0.0.3)
+
+DEPENDENCIES:
+  - CTCheckbox (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  CTCheckbox: a86e835904cd6a9da8df79a1113ba79b6bf4d944
+
+COCOAPODS: 0.33.1

@@ -1,0 +1,9 @@
+[submodule "HBMock/Libraries/ISNetwork"]
+	path = HBMock/Libraries/ISNetwork
+	url = git@github.com:ishkawa/ISNetwork.git
+[submodule "HBMock/Libraries/ISRefreshControl"]
+	path = HBMock/Libraries/ISRefreshControl
+	url = git@github.com:ishkawa/ISRefreshControl.git
+[submodule "HBMock/Libraries/XMLReader"]
+	path = HBMock/Libraries/XMLReader
+	url = git@github.com:amarcadet/XMLReader.git
